@@ -91,7 +91,10 @@ export default {
     },
     async onSubscribe() {
       this.isLoading = true;
-      const data = await this.addEmail({ email: this.email });
+      const data = await this.addEmail({
+        email: this.email,
+        created_at: Date.now(),
+      });
       if (data) this.isLoading = false;
       this.email = "";
     },

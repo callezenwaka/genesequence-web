@@ -186,7 +186,7 @@
       <section class="section">
         <div class="section--item downloading">
           <h3>Downloading Application</h3>
-          <p>Click <a href="https://dev.d2j6j4pgiubh78.amplifyapp.com/#installer">Installer</a> link for respective Operating System (OS) to get started. Then, navigate and clone the repository. The README.md document contains the step by step guide on how to build the desktop app for each OS.</p>
+          <p>Click <a href="https://genesequence-f6558.web.app/#installer">Installer</a> link for respective Operating System (OS) to get started. Then, navigate and clone the repository. The README.md document contains the step by step guide on how to build the desktop app for each OS.</p>
           <p>Once successfully installed, double-click the application to launch the application.</p>
         </div>
       </section><hr>
