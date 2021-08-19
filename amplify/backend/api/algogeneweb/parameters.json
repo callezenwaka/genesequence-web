@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "algogeneweb",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authalgogeneweb9d07825e",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

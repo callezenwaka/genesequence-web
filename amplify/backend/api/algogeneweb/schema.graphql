@@ -1,0 +1,5 @@
+type Email @model {
+  id: ID!
+  email: String!
+  createdAt: AWSDateTime
+}

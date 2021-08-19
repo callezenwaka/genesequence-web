@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-algogeneweb-dev-134112-authRole",
+      "UnauthRoleArn": "arn:aws:iam::266287732992:role/amplify-algogeneweb-dev-134112-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::266287732992:role/amplify-algogeneweb-dev-134112-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-algogeneweb-dev-134112-deployment",
+      "UnauthRoleName": "amplify-algogeneweb-dev-134112-unauthRole",
+      "StackName": "amplify-algogeneweb-dev-134112",
+      "StackId": "arn:aws:cloudformation:us-east-1:266287732992:stack/amplify-algogeneweb-dev-134112/6acae9a0-ff58-11eb-9943-0edd85921ccb",
+      "AmplifyAppId": "d2j6j4pgiubh78"
+    },
+    "categories": {
+      "auth": {
+        "algogeneweb9d07825e": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2j6j4pgiubh78",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
